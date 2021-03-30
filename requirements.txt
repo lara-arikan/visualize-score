@@ -13,7 +13,7 @@ parso==0.7.0
 pickleshare==0.7.5
 Pillow==7.2.0
 prompt-toolkit==3.0.5
-Pygments==2.6.1
+Pygments==2.7.4
 python-dateutil==2.8.1
 pywin32==228
 pyzmq==19.0.1
