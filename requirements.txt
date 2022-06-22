@@ -8,7 +8,7 @@ jedi==0.17.1
 jupyter-client==6.1.5
 jupyter-core==4.6.3
 music21==5.7.2
-numpy==1.19.0
+numpy==1.22.0
 parso==0.7.0
 pickleshare==0.7.5
 Pillow==7.2.0
